@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"Tapioqueiro",
+  "%Name":"jogotapiocadasilva(1)",
   "AudioGroups":[
     {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -8,8 +8,11 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
-  "Folders":[],
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"objetos","folderPath":"folders/objetos.yy","name":"objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"sprites","folderPath":"folders/sprites.yy","name":"sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
@@ -17,9 +20,20 @@
   "MetaData":{
     "IDEVersion":"2024.14.3.217",
   },
-  "name":"Tapioqueiro",
+  "name":"jogotapiocadasilva(1)",
   "resources":[
+    {"id":{"name":"obj_chapa","path":"objects/obj_chapa/obj_chapa.yy",},},
+    {"id":{"name":"obj_comida","path":"objects/obj_comida/obj_comida.yy",},},
+    {"id":{"name":"obj_cursor","path":"objects/obj_cursor/obj_cursor.yy",},},
+    {"id":{"name":"obj_lixeira","path":"objects/obj_lixeira/obj_lixeira.yy",},},
+    {"id":{"name":"obj_massa","path":"objects/obj_massa/obj_massa.yy",},},
+    {"id":{"name":"obj_queijo","path":"objects/obj_queijo/obj_queijo.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_barraquinha","path":"sprites/obj_barraquinha/obj_barraquinha.yy",},},
+    {"id":{"name":"spr_chapa","path":"sprites/spr_chapa/spr_chapa.yy",},},
+    {"id":{"name":"spr_lixeira","path":"sprites/spr_lixeira/spr_lixeira.yy",},},
+    {"id":{"name":"spr_mao","path":"sprites/spr_mao/spr_mao.yy",},},
+    {"id":{"name":"spr_massa","path":"sprites/spr_massa/spr_massa.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

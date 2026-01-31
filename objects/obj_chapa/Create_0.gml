@@ -1,0 +1,1 @@
+global.assando = 0

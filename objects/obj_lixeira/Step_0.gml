@@ -1,0 +1,1 @@
+if global.segurando = 1 {visible = 1} else visible = 0

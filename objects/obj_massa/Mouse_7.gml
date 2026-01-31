@@ -1,0 +1,2 @@
+global.segurando = 0
+
