@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_massa",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_chapa","path":"objects/obj_chapa/obj_chapa.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_parente_ingrediente",
+  "eventList":[],
   "managed":true,
-  "name":"obj_massa",
+  "name":"obj_parente_ingrediente",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Parentes",
+    "path":"folders/Objetos/Parentes.yy",
   },
   "parentObjectId":{
     "name":"obj_parente_comida",
@@ -32,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_massa",
-    "path":"sprites/spr_massa/spr_massa.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
