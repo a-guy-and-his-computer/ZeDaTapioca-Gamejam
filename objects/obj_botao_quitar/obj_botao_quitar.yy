@@ -1,20 +1,22 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cursor",
+  "%Name":"obj_botao_quitar",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_cursor",
-  "overriddenProperties":[],
+  "name":"obj_botao_quitar",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parente_botao","path":"objects/obj_parente_botao/obj_parente_botao.yy",},"propertyId":{"name":"texto_botao","path":"objects/obj_parente_botao/obj_parente_botao.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Quitar",},
+  ],
   "parent":{
     "name":"Objetos",
     "path":"folders/Objetos.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_parente_botao",
+    "path":"objects/obj_parente_botao/obj_parente_botao.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_mao",
-    "path":"sprites/spr_mao/spr_mao.yy",
+    "name":"spr_botao_menu",
+    "path":"sprites/spr_botao_menu/spr_botao_menu.yy",
   },
   "spriteMaskId":null,
   "visible":true,

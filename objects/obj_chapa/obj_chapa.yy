@@ -8,8 +8,8 @@
   "name":"obj_chapa",
   "overriddenProperties":[],
   "parent":{
-    "name":"objetos",
-    "path":"folders/objetos.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
