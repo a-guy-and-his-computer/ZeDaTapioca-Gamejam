@@ -1,1 +1,1 @@
-if global.segurando = 1 {visible = 1} else visible = 0
+if (global.segurando_algo = 0) = false {visible = 1} else visible = 0

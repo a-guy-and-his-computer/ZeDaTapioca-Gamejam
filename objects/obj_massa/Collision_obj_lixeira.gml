@@ -1,1 +1,0 @@
-if global.segurando = 0 {instance_destroy()}

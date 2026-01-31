@@ -1,1 +1,0 @@
-segurando = 0

@@ -1,2 +1,0 @@
-global.segurando = 0
-
