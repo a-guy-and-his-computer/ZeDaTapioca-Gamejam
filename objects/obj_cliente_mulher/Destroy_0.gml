@@ -1,0 +1,1 @@
+instance_create_depth(82,204,0,obj_cliente_meianoite)
