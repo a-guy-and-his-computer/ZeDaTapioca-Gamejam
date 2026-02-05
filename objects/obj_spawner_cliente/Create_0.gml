@@ -1,1 +1,0 @@
-clientes = [obj_cliente_wagner,obj_cliente_laursa,obj_cliente_meianoite,obj_cliente_mulher]

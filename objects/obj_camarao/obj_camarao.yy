@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_camarao",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_massa","path":"objects/obj_massa/obj_massa.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_camarao",
   "overriddenProperties":[],
@@ -31,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_camarao",
-    "path":"sprites/spr_camarao/spr_camarao.yy",
+    "name":"spr_camarao24",
+    "path":"sprites/spr_camarao24/spr_camarao24.yy",
   },
   "spriteMaskId":null,
   "visible":true,

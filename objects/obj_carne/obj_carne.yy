@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_carne",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_massa","path":"objects/obj_massa/obj_massa.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_carne",
   "overriddenProperties":[],

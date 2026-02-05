@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"obj_tempero_coco",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_massa","path":"objects/obj_massa/obj_massa.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_tapioca_queijo","path":"objects/obj_tapioca_queijo/obj_tapioca_queijo.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_tempero_coco",
   "overriddenProperties":[],

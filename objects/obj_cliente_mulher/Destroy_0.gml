@@ -1,1 +1,1 @@
-instance_create_depth(82,204,0,obj_cliente_meianoite)
+instance_create_layer(77,205,"Clientes",obj_cliente_meianoite)

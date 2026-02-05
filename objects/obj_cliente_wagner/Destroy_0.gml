@@ -1,1 +1,1 @@
-instance_create_layer(82,204,layer,obj_cliente_mulher)
+instance_create_layer(77,205,"Clientes",obj_cliente_mulher)

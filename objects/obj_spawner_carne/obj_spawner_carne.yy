@@ -5,7 +5,7 @@
   "managed":true,
   "name":"obj_spawner_carne",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parente_spawner","path":"objects/obj_parente_spawner/obj_parente_spawner.yy",},"propertyId":{"name":"objeto_de_criacao","path":"objects/obj_parente_spawner/obj_parente_spawner.yy",},"resource":{"name":"obj_carne","path":"objects/obj_carne/obj_carne.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_carne",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parente_spawner","path":"objects/obj_parente_spawner/obj_parente_spawner.yy",},"propertyId":{"name":"objeto_de_criacao","path":"objects/obj_parente_spawner/obj_parente_spawner.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_carne",},
   ],
   "parent":{
     "name":"Spawners",

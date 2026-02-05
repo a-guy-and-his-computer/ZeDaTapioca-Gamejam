@@ -1,1 +1,1 @@
-instance_create_depth(82,204,1,obj_cliente_laursa)
+instance_create_layer(77,204,"Clientes",obj_cliente_laursa)
