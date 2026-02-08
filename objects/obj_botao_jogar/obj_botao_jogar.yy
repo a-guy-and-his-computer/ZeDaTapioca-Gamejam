@@ -10,8 +10,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_parente_botao","path":"objects/obj_parente_botao/obj_parente_botao.yy",},"propertyId":{"name":"texto_botao","path":"objects/obj_parente_botao/obj_parente_botao.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Jogar",},
   ],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Botoes",
+    "path":"folders/Objetos/Botoes.yy",
   },
   "parentObjectId":{
     "name":"obj_parente_botao",

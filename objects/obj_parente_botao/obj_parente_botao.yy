@@ -12,8 +12,8 @@
   "name":"obj_parente_botao",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Botoes",
+    "path":"folders/Objetos/Botoes.yy",
   },
   "parentObjectId":null,
   "persistent":false,

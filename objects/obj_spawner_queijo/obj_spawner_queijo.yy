@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_spawner_jarra",
-    "path":"sprites/spr_spawner_jarra/spr_spawner_jarra.yy",
+    "name":"spr_spawner_jarra_queijo",
+    "path":"sprites/spr_spawner_jarra_queijo/spr_spawner_jarra_queijo.yy",
   },
   "spriteMaskId":null,
   "visible":true,

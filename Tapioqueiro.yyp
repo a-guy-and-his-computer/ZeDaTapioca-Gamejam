@@ -12,11 +12,25 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Fontes","folderPath":"folders/Fontes.yy","name":"Fontes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
+<<<<<<< Updated upstream
+=======
+    {"$GMFolder":"","%Name":"Botoes","folderPath":"folders/Objetos/Botoes.yy","name":"Botoes","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Clientes","folderPath":"folders/Objetos/Clientes.yy","name":"Clientes","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"funcoes","folderPath":"folders/Objetos/funcoes.yy","name":"funcoes","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Ingredientes","folderPath":"folders/Objetos/Ingredientes.yy","name":"Ingredientes","resourceType":"GMFolder","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
     {"$GMFolder":"","%Name":"Parentes","folderPath":"folders/Objetos/Parentes.yy","name":"Parentes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Spawners","folderPath":"folders/Objetos/Spawners.yy","name":"Spawners","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Salas","folderPath":"folders/Salas.yy","name":"Salas","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sons","folderPath":"folders/Sons.yy","name":"Sons","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Cenarios","folderPath":"folders/Sprites/Cenarios.yy","name":"Cenarios","resourceType":"GMFolder","resourceVersion":"2.0",},
+<<<<<<< Updated upstream
+=======
+    {"$GMFolder":"","%Name":"clientes","folderPath":"folders/Sprites/clientes.yy","name":"clientes","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Tapiocas","folderPath":"folders/Sprites/Tapiocas.yy","name":"Tapiocas","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Ingredientes","folderPath":"folders/Sprites/Ingredientes.yy","name":"Ingredientes","resourceType":"GMFolder","resourceVersion":"2.0",},
+>>>>>>> Stashed changes
     {"$GMFolder":"","%Name":"UI","folderPath":"folders/Sprites/UI.yy","name":"UI","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
@@ -29,25 +43,40 @@
   "name":"Tapioqueiro",
   "resources":[
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"obj_base_feminina","path":"objects/obj_base_feminina/obj_base_feminina.yy",},},
     {"id":{"name":"obj_base_masculina","path":"objects/obj_base_masculina/obj_base_masculina.yy",},},
+=======
+    {"id":{"name":"fnt_pedido","path":"fonts/fnt_pedido/fnt_pedido.yy",},},
+    {"id":{"name":"obj_bolhadefala","path":"objects/obj_bolhadefala/obj_bolhadefala.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"obj_botao_ajuda","path":"objects/obj_botao_ajuda/obj_botao_ajuda.yy",},},
     {"id":{"name":"obj_botao_jogar","path":"objects/obj_botao_jogar/obj_botao_jogar.yy",},},
     {"id":{"name":"obj_botao_quitar","path":"objects/obj_botao_quitar/obj_botao_quitar.yy",},},
     {"id":{"name":"obj_camarao","path":"objects/obj_camarao/obj_camarao.yy",},},
     {"id":{"name":"obj_carne","path":"objects/obj_carne/obj_carne.yy",},},
     {"id":{"name":"obj_chapa","path":"objects/obj_chapa/obj_chapa.yy",},},
+<<<<<<< Updated upstream
+=======
+    {"id":{"name":"obj_cliente_caba1","path":"objects/obj_cliente_caba1/obj_cliente_caba1.yy",},},
+    {"id":{"name":"obj_cliente_caba2","path":"objects/obj_cliente_caba2/obj_cliente_caba2.yy",},},
+    {"id":{"name":"obj_cliente_hmeianoite","path":"objects/obj_cliente_hmeianoite/obj_cliente_hmeianoite.yy",},},
+    {"id":{"name":"obj_cliente_laursa","path":"objects/obj_cliente_laursa/obj_cliente_laursa.yy",},},
+    {"id":{"name":"obj_cliente_mina","path":"objects/obj_cliente_mina/obj_cliente_mina.yy",},},
+    {"id":{"name":"obj_cliente_wagner","path":"objects/obj_cliente_wagner/obj_cliente_wagner.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"obj_cursor","path":"objects/obj_cursor/obj_cursor.yy",},},
+    {"id":{"name":"obj_economia","path":"objects/obj_economia/obj_economia.yy",},},
     {"id":{"name":"obj_frango","path":"objects/obj_frango/obj_frango.yy",},},
     {"id":{"name":"obj_lixeira","path":"objects/obj_lixeira/obj_lixeira.yy",},},
-    {"id":{"name":"obj_massa_baixo","path":"objects/obj_massa_baixo/obj_massa_baixo.yy",},},
-    {"id":{"name":"obj_massa_cima","path":"objects/obj_massa_cima/obj_massa_cima.yy",},},
     {"id":{"name":"obj_massa","path":"objects/obj_massa/obj_massa.yy",},},
     {"id":{"name":"obj_parente_botao","path":"objects/obj_parente_botao/obj_parente_botao.yy",},},
+    {"id":{"name":"obj_parente_cliente","path":"objects/obj_parente_cliente/obj_parente_cliente.yy",},},
     {"id":{"name":"obj_parente_comida","path":"objects/obj_parente_comida/obj_parente_comida.yy",},},
     {"id":{"name":"obj_parente_ingrediente","path":"objects/obj_parente_ingrediente/obj_parente_ingrediente.yy",},},
     {"id":{"name":"obj_parente_spawner","path":"objects/obj_parente_spawner/obj_parente_spawner.yy",},},
     {"id":{"name":"obj_parente_tempero","path":"objects/obj_parente_tempero/obj_parente_tempero.yy",},},
+    {"id":{"name":"obj_restartroom","path":"objects/obj_restartroom/obj_restartroom.yy",},},
     {"id":{"name":"obj_spawner_camarao","path":"objects/obj_spawner_camarao/obj_spawner_camarao.yy",},},
     {"id":{"name":"obj_spawner_carne","path":"objects/obj_spawner_carne/obj_spawner_carne.yy",},},
     {"id":{"name":"obj_spawner_coco","path":"objects/obj_spawner_coco/obj_spawner_coco.yy",},},
@@ -60,22 +89,49 @@
     {"id":{"name":"obj_tempero_queijo_ralado","path":"objects/obj_tempero_queijo_ralado/obj_tempero_queijo_ralado.yy",},},
     {"id":{"name":"rm_alto_da_se","path":"rooms/rm_alto_da_se/rm_alto_da_se.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"base_feminina","path":"sprites/base_feminina/base_feminina.yy",},},
     {"id":{"name":"base_masculina","path":"sprites/base_masculina/base_masculina.yy",},},
     {"id":{"name":"spr_barraquinha","path":"sprites/spr_barraquinha/spr_barraquinha.yy",},},
+=======
+    {"id":{"name":"rm_praia","path":"rooms/rm_praia/rm_praia.yy",},},
+    {"id":{"name":"snd_yap","path":"sounds/snd_yap/snd_yap.yy",},},
+    {"id":{"name":"barraquinha_VERDE","path":"sprites/barraquinha_VERDE/barraquinha_VERDE.yy",},},
+    {"id":{"name":"menu","path":"sprites/menu/menu.yy",},},
+    {"id":{"name":"spr_barraquinha2","path":"sprites/spr_barraquinha2/spr_barraquinha2.yy",},},
+    {"id":{"name":"spr_barraquinha24","path":"sprites/spr_barraquinha24/spr_barraquinha24.yy",},},
+    {"id":{"name":"spr_bolhadefala","path":"sprites/spr_bolhadefala/spr_bolhadefala.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"spr_botao_menu","path":"sprites/spr_botao_menu/spr_botao_menu.yy",},},
     {"id":{"name":"spr_camarao","path":"sprites/spr_camarao/spr_camarao.yy",},},
     {"id":{"name":"spr_carne","path":"sprites/spr_carne/spr_carne.yy",},},
     {"id":{"name":"spr_chapa","path":"sprites/spr_chapa/spr_chapa.yy",},},
     {"id":{"name":"spr_coco","path":"sprites/spr_coco/spr_coco.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"spr_frango","path":"sprites/spr_frango/spr_frango.yy",},},
+=======
+    {"id":{"name":"spr_cocoequeijo","path":"sprites/spr_cocoequeijo/spr_cocoequeijo.yy",},},
+    {"id":{"name":"spr_cocoicon","path":"sprites/spr_cocoicon/spr_cocoicon.yy",},},
+    {"id":{"name":"spr_frango","path":"sprites/spr_frango/spr_frango.yy",},},
+    {"id":{"name":"spr_laursa","path":"sprites/spr_laursa/spr_laursa.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"spr_lixeira","path":"sprites/spr_lixeira/spr_lixeira.yy",},},
     {"id":{"name":"spr_mao","path":"sprites/spr_mao/spr_mao.yy",},},
     {"id":{"name":"spr_massa_baixo","path":"sprites/spr_massa_baixo/spr_massa_baixo.yy",},},
     {"id":{"name":"spr_massa_cima","path":"sprites/spr_massa_cima/spr_massa_cima.yy",},},
     {"id":{"name":"spr_massa","path":"sprites/spr_massa/spr_massa.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"spr_queijo","path":"sprites/spr_queijo/spr_queijo.yy",},},
     {"id":{"name":"spr_spawner_jarra","path":"sprites/spr_spawner_jarra/spr_spawner_jarra.yy",},},
+=======
+    {"id":{"name":"spr_meianoite","path":"sprites/spr_meianoite/spr_meianoite.yy",},},
+    {"id":{"name":"spr_mulher","path":"sprites/spr_mulher/spr_mulher.yy",},},
+    {"id":{"name":"spr_placeholder_cliente","path":"sprites/spr_placeholder_cliente/spr_placeholder_cliente.yy",},},
+    {"id":{"name":"spr_queijo","path":"sprites/spr_queijo/spr_queijo.yy",},},
+    {"id":{"name":"spr_queijoatual","path":"sprites/spr_queijoatual/spr_queijoatual.yy",},},
+    {"id":{"name":"spr_spawner_jarra_coco","path":"sprites/spr_spawner_jarra_coco/spr_spawner_jarra_coco.yy",},},
+    {"id":{"name":"spr_spawner_jarra_queijo","path":"sprites/spr_spawner_jarra_queijo/spr_spawner_jarra_queijo.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"spr_spawner_massa","path":"sprites/spr_spawner_massa/spr_spawner_massa.yy",},},
     {"id":{"name":"spr_spawner_pote","path":"sprites/spr_spawner_pote/spr_spawner_pote.yy",},},
   ],

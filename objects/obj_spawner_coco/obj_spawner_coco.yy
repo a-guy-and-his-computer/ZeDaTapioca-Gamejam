@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_spawner_jarra",
-    "path":"sprites/spr_spawner_jarra/spr_spawner_jarra.yy",
+    "name":"spr_spawner_jarra_coco",
+    "path":"sprites/spr_spawner_jarra_coco/spr_spawner_jarra_coco.yy",
   },
   "spriteMaskId":null,
   "visible":true,

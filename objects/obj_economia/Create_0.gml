@@ -1,0 +1,1 @@
+global.dinheiro = 0

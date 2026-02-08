@@ -6,8 +6,8 @@
   "name":"obj_carne",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Ingredientes",
+    "path":"folders/Objetos/Ingredientes.yy",
   },
   "parentObjectId":{
     "name":"obj_parente_comida",
