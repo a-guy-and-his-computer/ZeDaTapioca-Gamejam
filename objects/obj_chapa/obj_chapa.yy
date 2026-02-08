@@ -6,8 +6,8 @@
   "name":"obj_chapa",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ingredientes",
-    "path":"folders/Objetos/Ingredientes.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

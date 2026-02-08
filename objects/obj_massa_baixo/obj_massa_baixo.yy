@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tempero_coco",
+  "%Name":"obj_massa_baixo",
   "eventList":[],
   "managed":true,
-  "name":"obj_tempero_coco",
+  "name":"obj_massa_baixo",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_coco",
-    "path":"sprites/spr_coco/spr_coco.yy",
+    "name":"spr_massa_baixo",
+    "path":"sprites/spr_massa_baixo/spr_massa_baixo.yy",
   },
   "spriteMaskId":null,
   "visible":true,

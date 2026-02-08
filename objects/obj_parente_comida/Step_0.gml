@@ -9,12 +9,7 @@ y+=4
 image_angle+=10
 }
 
-<<<<<<< Updated upstream
 if timer>=187.5 {image_index=1}
 if timer>2250 {image_index=2}
-=======
-if timer>=187.5 {image_index = 1}
-if timer>2250 {instance_destroy()instance_create_depth(x,y,"Ingredientes",obj_carvao)}
->>>>>>> Stashed changes
 
 

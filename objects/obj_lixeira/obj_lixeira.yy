@@ -9,8 +9,8 @@
   "name":"obj_lixeira",
   "overriddenProperties":[],
   "parent":{
-    "name":"funcoes",
-    "path":"folders/Objetos/funcoes.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

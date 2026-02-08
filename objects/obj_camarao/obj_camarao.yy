@@ -6,8 +6,8 @@
   "name":"obj_camarao",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ingredientes",
-    "path":"folders/Objetos/Ingredientes.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":{
     "name":"obj_parente_comida",
